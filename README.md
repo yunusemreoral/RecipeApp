@@ -13,8 +13,10 @@
 <li>⭐ Iconsax</li>
 <li>⭐ XCode</li>
 <li>⭐ React-Navigation</li>
-<li>⭐ Stack</li>
 <li>⭐ İos</li>
+<li>⭐ Navigation-Screen</li>
+<li>⭐ Navigation-Stack</li>
+<li>⭐ Navigation-Safe-Area-Context</li>
 
   
 # Ekran Görüntüsü 🎥
